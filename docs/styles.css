@@ -1,10 +1,21 @@
-/* Globalni stil */
+/* Globalni stil 
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+}*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('images/Pozadina.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 20px;
 }
+
 
 /* Stil za zaglavlje */
 header {
