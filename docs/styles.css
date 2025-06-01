@@ -8,7 +8,7 @@ body {
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url "https://tr1fa.github.io/3.Pikado_Invenda_Liga/docs/images/Pozadina.png";
+    background-image: url ("https://tr1fa.github.io/3.Pikado_Invenda_Liga/docs/images/Pozadina.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
